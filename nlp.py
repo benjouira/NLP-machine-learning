@@ -113,3 +113,4 @@ print(short_data['Step2_SentimentText'])
 print('---------Capitalization---------')
 short_data['Step6_SentimentText'] = short_data['Step2_SentimentText'].apply( lambda x : ' '.join( [ word.upper() for word in x.split() ]))
 print(short_data['Step6_SentimentText'])
+
