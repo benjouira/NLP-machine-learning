@@ -71,3 +71,4 @@ WTG=Way To Go!
 WUF=Where Are You From?
 W8=Wait...
 7K=Sick:-D Laugher
+BTW=By the way
